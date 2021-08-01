@@ -1,0 +1,16 @@
+C:\Users\57311\source\repos\ejercicio_18\ejercicio_18\bin\Debug\net5.0\ejercicio_18.exe
+C:\Users\57311\source\repos\ejercicio_18\ejercicio_18\bin\Debug\net5.0\ejercicio_18.deps.json
+C:\Users\57311\source\repos\ejercicio_18\ejercicio_18\bin\Debug\net5.0\ejercicio_18.runtimeconfig.json
+C:\Users\57311\source\repos\ejercicio_18\ejercicio_18\bin\Debug\net5.0\ejercicio_18.runtimeconfig.dev.json
+C:\Users\57311\source\repos\ejercicio_18\ejercicio_18\bin\Debug\net5.0\ejercicio_18.dll
+C:\Users\57311\source\repos\ejercicio_18\ejercicio_18\bin\Debug\net5.0\ref\ejercicio_18.dll
+C:\Users\57311\source\repos\ejercicio_18\ejercicio_18\bin\Debug\net5.0\ejercicio_18.pdb
+C:\Users\57311\source\repos\ejercicio_18\ejercicio_18\obj\Debug\net5.0\ejercicio_18.csprojAssemblyReference.cache
+C:\Users\57311\source\repos\ejercicio_18\ejercicio_18\obj\Debug\net5.0\ejercicio_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57311\source\repos\ejercicio_18\ejercicio_18\obj\Debug\net5.0\ejercicio_18.AssemblyInfoInputs.cache
+C:\Users\57311\source\repos\ejercicio_18\ejercicio_18\obj\Debug\net5.0\ejercicio_18.AssemblyInfo.cs
+C:\Users\57311\source\repos\ejercicio_18\ejercicio_18\obj\Debug\net5.0\ejercicio_18.csproj.CoreCompileInputs.cache
+C:\Users\57311\source\repos\ejercicio_18\ejercicio_18\obj\Debug\net5.0\ejercicio_18.dll
+C:\Users\57311\source\repos\ejercicio_18\ejercicio_18\obj\Debug\net5.0\ref\ejercicio_18.dll
+C:\Users\57311\source\repos\ejercicio_18\ejercicio_18\obj\Debug\net5.0\ejercicio_18.pdb
+C:\Users\57311\source\repos\ejercicio_18\ejercicio_18\obj\Debug\net5.0\ejercicio_18.genruntimeconfig.cache

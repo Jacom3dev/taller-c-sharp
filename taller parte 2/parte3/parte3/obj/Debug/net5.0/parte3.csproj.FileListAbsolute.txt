@@ -1,0 +1,16 @@
+C:\cursos\C#\taller parte 2\parte3\parte3\bin\Debug\net5.0\parte3.exe
+C:\cursos\C#\taller parte 2\parte3\parte3\bin\Debug\net5.0\parte3.deps.json
+C:\cursos\C#\taller parte 2\parte3\parte3\bin\Debug\net5.0\parte3.runtimeconfig.json
+C:\cursos\C#\taller parte 2\parte3\parte3\bin\Debug\net5.0\parte3.runtimeconfig.dev.json
+C:\cursos\C#\taller parte 2\parte3\parte3\bin\Debug\net5.0\parte3.dll
+C:\cursos\C#\taller parte 2\parte3\parte3\bin\Debug\net5.0\ref\parte3.dll
+C:\cursos\C#\taller parte 2\parte3\parte3\bin\Debug\net5.0\parte3.pdb
+C:\cursos\C#\taller parte 2\parte3\parte3\obj\Debug\net5.0\parte3.csprojAssemblyReference.cache
+C:\cursos\C#\taller parte 2\parte3\parte3\obj\Debug\net5.0\parte3.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursos\C#\taller parte 2\parte3\parte3\obj\Debug\net5.0\parte3.AssemblyInfoInputs.cache
+C:\cursos\C#\taller parte 2\parte3\parte3\obj\Debug\net5.0\parte3.AssemblyInfo.cs
+C:\cursos\C#\taller parte 2\parte3\parte3\obj\Debug\net5.0\parte3.csproj.CoreCompileInputs.cache
+C:\cursos\C#\taller parte 2\parte3\parte3\obj\Debug\net5.0\parte3.dll
+C:\cursos\C#\taller parte 2\parte3\parte3\obj\Debug\net5.0\ref\parte3.dll
+C:\cursos\C#\taller parte 2\parte3\parte3\obj\Debug\net5.0\parte3.pdb
+C:\cursos\C#\taller parte 2\parte3\parte3\obj\Debug\net5.0\parte3.genruntimeconfig.cache

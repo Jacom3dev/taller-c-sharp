@@ -1,0 +1,16 @@
+C:\cursos\C#\Algoritmos\ejercicio_6\ejercicio_6\bin\Debug\net5.0\ejercicio_6.exe
+C:\cursos\C#\Algoritmos\ejercicio_6\ejercicio_6\bin\Debug\net5.0\ejercicio_6.deps.json
+C:\cursos\C#\Algoritmos\ejercicio_6\ejercicio_6\bin\Debug\net5.0\ejercicio_6.runtimeconfig.json
+C:\cursos\C#\Algoritmos\ejercicio_6\ejercicio_6\bin\Debug\net5.0\ejercicio_6.runtimeconfig.dev.json
+C:\cursos\C#\Algoritmos\ejercicio_6\ejercicio_6\bin\Debug\net5.0\ejercicio_6.dll
+C:\cursos\C#\Algoritmos\ejercicio_6\ejercicio_6\bin\Debug\net5.0\ref\ejercicio_6.dll
+C:\cursos\C#\Algoritmos\ejercicio_6\ejercicio_6\bin\Debug\net5.0\ejercicio_6.pdb
+C:\cursos\C#\Algoritmos\ejercicio_6\ejercicio_6\obj\Debug\net5.0\ejercicio_6.csprojAssemblyReference.cache
+C:\cursos\C#\Algoritmos\ejercicio_6\ejercicio_6\obj\Debug\net5.0\ejercicio_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursos\C#\Algoritmos\ejercicio_6\ejercicio_6\obj\Debug\net5.0\ejercicio_6.AssemblyInfoInputs.cache
+C:\cursos\C#\Algoritmos\ejercicio_6\ejercicio_6\obj\Debug\net5.0\ejercicio_6.AssemblyInfo.cs
+C:\cursos\C#\Algoritmos\ejercicio_6\ejercicio_6\obj\Debug\net5.0\ejercicio_6.csproj.CoreCompileInputs.cache
+C:\cursos\C#\Algoritmos\ejercicio_6\ejercicio_6\obj\Debug\net5.0\ejercicio_6.dll
+C:\cursos\C#\Algoritmos\ejercicio_6\ejercicio_6\obj\Debug\net5.0\ref\ejercicio_6.dll
+C:\cursos\C#\Algoritmos\ejercicio_6\ejercicio_6\obj\Debug\net5.0\ejercicio_6.pdb
+C:\cursos\C#\Algoritmos\ejercicio_6\ejercicio_6\obj\Debug\net5.0\ejercicio_6.genruntimeconfig.cache

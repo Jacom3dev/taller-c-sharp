@@ -1,0 +1,15 @@
+E:\trabajos sena\algoritmos C#\ejemplo1-T2\ejemplo1-T2\bin\Debug\net6.0\ejemplo1-T2.exe
+E:\trabajos sena\algoritmos C#\ejemplo1-T2\ejemplo1-T2\bin\Debug\net6.0\ejemplo1-T2.deps.json
+E:\trabajos sena\algoritmos C#\ejemplo1-T2\ejemplo1-T2\bin\Debug\net6.0\ejemplo1-T2.runtimeconfig.json
+E:\trabajos sena\algoritmos C#\ejemplo1-T2\ejemplo1-T2\bin\Debug\net6.0\ejemplo1-T2.dll
+E:\trabajos sena\algoritmos C#\ejemplo1-T2\ejemplo1-T2\bin\Debug\net6.0\ref\ejemplo1-T2.dll
+E:\trabajos sena\algoritmos C#\ejemplo1-T2\ejemplo1-T2\bin\Debug\net6.0\ejemplo1-T2.pdb
+E:\trabajos sena\algoritmos C#\ejemplo1-T2\ejemplo1-T2\obj\Debug\net6.0\ejemplo1-T2.csproj.AssemblyReference.cache
+E:\trabajos sena\algoritmos C#\ejemplo1-T2\ejemplo1-T2\obj\Debug\net6.0\ejemplo1-T2.GeneratedMSBuildEditorConfig.editorconfig
+E:\trabajos sena\algoritmos C#\ejemplo1-T2\ejemplo1-T2\obj\Debug\net6.0\ejemplo1-T2.AssemblyInfoInputs.cache
+E:\trabajos sena\algoritmos C#\ejemplo1-T2\ejemplo1-T2\obj\Debug\net6.0\ejemplo1-T2.AssemblyInfo.cs
+E:\trabajos sena\algoritmos C#\ejemplo1-T2\ejemplo1-T2\obj\Debug\net6.0\ejemplo1-T2.csproj.CoreCompileInputs.cache
+E:\trabajos sena\algoritmos C#\ejemplo1-T2\ejemplo1-T2\obj\Debug\net6.0\ejemplo1-T2.dll
+E:\trabajos sena\algoritmos C#\ejemplo1-T2\ejemplo1-T2\obj\Debug\net6.0\ref\ejemplo1-T2.dll
+E:\trabajos sena\algoritmos C#\ejemplo1-T2\ejemplo1-T2\obj\Debug\net6.0\ejemplo1-T2.pdb
+E:\trabajos sena\algoritmos C#\ejemplo1-T2\ejemplo1-T2\obj\Debug\net6.0\ejemplo1-T2.genruntimeconfig.cache

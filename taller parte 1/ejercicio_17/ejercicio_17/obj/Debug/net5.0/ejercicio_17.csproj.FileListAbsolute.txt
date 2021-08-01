@@ -1,0 +1,16 @@
+C:\Users\57311\source\repos\ejercicio_17\ejercicio_17\bin\Debug\net5.0\ejercicio_17.exe
+C:\Users\57311\source\repos\ejercicio_17\ejercicio_17\bin\Debug\net5.0\ejercicio_17.deps.json
+C:\Users\57311\source\repos\ejercicio_17\ejercicio_17\bin\Debug\net5.0\ejercicio_17.runtimeconfig.json
+C:\Users\57311\source\repos\ejercicio_17\ejercicio_17\bin\Debug\net5.0\ejercicio_17.runtimeconfig.dev.json
+C:\Users\57311\source\repos\ejercicio_17\ejercicio_17\bin\Debug\net5.0\ejercicio_17.dll
+C:\Users\57311\source\repos\ejercicio_17\ejercicio_17\bin\Debug\net5.0\ref\ejercicio_17.dll
+C:\Users\57311\source\repos\ejercicio_17\ejercicio_17\bin\Debug\net5.0\ejercicio_17.pdb
+C:\Users\57311\source\repos\ejercicio_17\ejercicio_17\obj\Debug\net5.0\ejercicio_17.csprojAssemblyReference.cache
+C:\Users\57311\source\repos\ejercicio_17\ejercicio_17\obj\Debug\net5.0\ejercicio_17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57311\source\repos\ejercicio_17\ejercicio_17\obj\Debug\net5.0\ejercicio_17.AssemblyInfoInputs.cache
+C:\Users\57311\source\repos\ejercicio_17\ejercicio_17\obj\Debug\net5.0\ejercicio_17.AssemblyInfo.cs
+C:\Users\57311\source\repos\ejercicio_17\ejercicio_17\obj\Debug\net5.0\ejercicio_17.csproj.CoreCompileInputs.cache
+C:\Users\57311\source\repos\ejercicio_17\ejercicio_17\obj\Debug\net5.0\ejercicio_17.dll
+C:\Users\57311\source\repos\ejercicio_17\ejercicio_17\obj\Debug\net5.0\ref\ejercicio_17.dll
+C:\Users\57311\source\repos\ejercicio_17\ejercicio_17\obj\Debug\net5.0\ejercicio_17.pdb
+C:\Users\57311\source\repos\ejercicio_17\ejercicio_17\obj\Debug\net5.0\ejercicio_17.genruntimeconfig.cache

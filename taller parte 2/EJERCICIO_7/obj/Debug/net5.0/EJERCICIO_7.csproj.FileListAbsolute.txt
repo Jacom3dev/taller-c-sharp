@@ -1,0 +1,16 @@
+C:\Users\marys\OneDrive\Escritorio\guia2_parte2\EJERCICIO_7\bin\Debug\net5.0\EJERCICIO_7.exe
+C:\Users\marys\OneDrive\Escritorio\guia2_parte2\EJERCICIO_7\bin\Debug\net5.0\EJERCICIO_7.deps.json
+C:\Users\marys\OneDrive\Escritorio\guia2_parte2\EJERCICIO_7\bin\Debug\net5.0\EJERCICIO_7.runtimeconfig.json
+C:\Users\marys\OneDrive\Escritorio\guia2_parte2\EJERCICIO_7\bin\Debug\net5.0\EJERCICIO_7.runtimeconfig.dev.json
+C:\Users\marys\OneDrive\Escritorio\guia2_parte2\EJERCICIO_7\bin\Debug\net5.0\EJERCICIO_7.dll
+C:\Users\marys\OneDrive\Escritorio\guia2_parte2\EJERCICIO_7\bin\Debug\net5.0\ref\EJERCICIO_7.dll
+C:\Users\marys\OneDrive\Escritorio\guia2_parte2\EJERCICIO_7\bin\Debug\net5.0\EJERCICIO_7.pdb
+C:\Users\marys\OneDrive\Escritorio\guia2_parte2\EJERCICIO_7\obj\Debug\net5.0\EJERCICIO_7.csproj.AssemblyReference.cache
+C:\Users\marys\OneDrive\Escritorio\guia2_parte2\EJERCICIO_7\obj\Debug\net5.0\EJERCICIO_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marys\OneDrive\Escritorio\guia2_parte2\EJERCICIO_7\obj\Debug\net5.0\EJERCICIO_7.AssemblyInfoInputs.cache
+C:\Users\marys\OneDrive\Escritorio\guia2_parte2\EJERCICIO_7\obj\Debug\net5.0\EJERCICIO_7.AssemblyInfo.cs
+C:\Users\marys\OneDrive\Escritorio\guia2_parte2\EJERCICIO_7\obj\Debug\net5.0\EJERCICIO_7.csproj.CoreCompileInputs.cache
+C:\Users\marys\OneDrive\Escritorio\guia2_parte2\EJERCICIO_7\obj\Debug\net5.0\EJERCICIO_7.dll
+C:\Users\marys\OneDrive\Escritorio\guia2_parte2\EJERCICIO_7\obj\Debug\net5.0\ref\EJERCICIO_7.dll
+C:\Users\marys\OneDrive\Escritorio\guia2_parte2\EJERCICIO_7\obj\Debug\net5.0\EJERCICIO_7.pdb
+C:\Users\marys\OneDrive\Escritorio\guia2_parte2\EJERCICIO_7\obj\Debug\net5.0\EJERCICIO_7.genruntimeconfig.cache

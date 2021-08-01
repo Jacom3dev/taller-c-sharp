@@ -1,0 +1,16 @@
+C:\cursos\C#\Algoritmos\numeroRandom\numeroRandom\bin\Debug\net5.0\numeroRandom.exe
+C:\cursos\C#\Algoritmos\numeroRandom\numeroRandom\bin\Debug\net5.0\numeroRandom.deps.json
+C:\cursos\C#\Algoritmos\numeroRandom\numeroRandom\bin\Debug\net5.0\numeroRandom.runtimeconfig.json
+C:\cursos\C#\Algoritmos\numeroRandom\numeroRandom\bin\Debug\net5.0\numeroRandom.runtimeconfig.dev.json
+C:\cursos\C#\Algoritmos\numeroRandom\numeroRandom\bin\Debug\net5.0\numeroRandom.dll
+C:\cursos\C#\Algoritmos\numeroRandom\numeroRandom\bin\Debug\net5.0\ref\numeroRandom.dll
+C:\cursos\C#\Algoritmos\numeroRandom\numeroRandom\bin\Debug\net5.0\numeroRandom.pdb
+C:\cursos\C#\Algoritmos\numeroRandom\numeroRandom\obj\Debug\net5.0\numeroRandom.csprojAssemblyReference.cache
+C:\cursos\C#\Algoritmos\numeroRandom\numeroRandom\obj\Debug\net5.0\numeroRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursos\C#\Algoritmos\numeroRandom\numeroRandom\obj\Debug\net5.0\numeroRandom.AssemblyInfoInputs.cache
+C:\cursos\C#\Algoritmos\numeroRandom\numeroRandom\obj\Debug\net5.0\numeroRandom.AssemblyInfo.cs
+C:\cursos\C#\Algoritmos\numeroRandom\numeroRandom\obj\Debug\net5.0\numeroRandom.csproj.CoreCompileInputs.cache
+C:\cursos\C#\Algoritmos\numeroRandom\numeroRandom\obj\Debug\net5.0\numeroRandom.dll
+C:\cursos\C#\Algoritmos\numeroRandom\numeroRandom\obj\Debug\net5.0\ref\numeroRandom.dll
+C:\cursos\C#\Algoritmos\numeroRandom\numeroRandom\obj\Debug\net5.0\numeroRandom.pdb
+C:\cursos\C#\Algoritmos\numeroRandom\numeroRandom\obj\Debug\net5.0\numeroRandom.genruntimeconfig.cache
