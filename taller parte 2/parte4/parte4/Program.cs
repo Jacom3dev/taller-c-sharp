@@ -4,6 +4,40 @@ namespace parte4
 {
     class Program
     {
+        public static void NumerosPrimos()
+        {
+            int n = 2, total = 1, num;
+
+            Console.WriteLine("ingrese un numero");
+            num = Convert.ToInt32(Console.ReadLine());
+
+            for (int r = 1; r < num; r++)
+            {
+
+
+                bool esPrimo = true;
+
+
+                for (int i = 2; i < n; i++)
+                {
+                    if (n % i == 0)
+                    {
+                        esPrimo = false;
+                        break;
+                    }
+
+                }
+
+
+                if (esPrimo)
+                {
+                    Console.WriteLine(n);
+                    total++;
+                }
+
+                n++;
+            }
+        }
         public static void Sueldos()
         {
             byte cantidadSueldos;
@@ -213,7 +247,7 @@ namespace parte4
             switch (opcion)
             {
                 case 1:
-                    
+                    NumerosPrimos();
                 break;
                 case 2:
                     Sueldos();
