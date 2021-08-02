@@ -4,6 +4,40 @@ namespace parte3
 {
     class Program
     {
+        public static void NumerosPrimos()
+        {
+            int n = 2, total = 1, num;
+
+            Console.WriteLine("ingrese un numero");
+            num = Convert.ToInt32(Console.ReadLine());
+
+            for (int r = 1; r < num; r++)
+            {
+
+
+                bool esPrimo = true;
+
+
+                for (int i = 2; i < n; i++)
+                {
+                    if (n % i == 0)
+                    {
+                        esPrimo = false;
+                        break;
+                    }
+
+                }
+
+
+                if (esPrimo)
+                {
+                    Console.WriteLine(n);
+                    total++;
+                }
+
+                n++;
+            }
+        }
         public static void Sueldos()
         {
             byte cantidadSueldos;
@@ -213,17 +247,17 @@ namespace parte3
         static void Main(string[] args)
         {
             int opcion;
-            Console.WriteLine("##################\n"+
+            Console.WriteLine(".........................\n"+
                               "1)nueros primos\n"+
                               "2)sueldos\n"+
                               "3)mostrar numeros\n"+
                               "4)letra abecedario\n"+
-                              "###################");
+                              "..........................");
             Console.Write("Elige un numero: ");
             opcion = int.Parse(Console.ReadLine());
             if (opcion ==1)
             {
-
+                NumerosPrimos();
             }
             else if (opcion==2)
             {
